@@ -28,6 +28,4 @@ PUT /car-parts/:id
 Excluir uma Peça:
 
 DELETE /car-parts/:id# kayohr-API-Oficina-Pecas-Car
-# API_Oficina_Pecas_Car
-# API_Oficina_Pecas_Car
-# API_Oficina_Pecas_Car
+
